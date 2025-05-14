@@ -1,2 +1,0 @@
-# Drone Control System
-
